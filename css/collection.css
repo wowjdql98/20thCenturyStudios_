@@ -32,6 +32,13 @@ body {
     margin: 0 auto;
 }
 
+.page {
+  position: relative;
+  width: inherit;
+  /* height: inherit; */
+  overflow: hidden;
+}
+
 /* header */
 
 button {
