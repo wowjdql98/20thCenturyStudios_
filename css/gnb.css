@@ -71,7 +71,7 @@
     width: 100%;
     height: 100vh;
     background: #000;
-    outline: 1px solid #fff;
+    /* outline: 1px solid #fff; */
     left: 0; 
     top: var(--header-height);
     padding: 26px 18px 59px;
