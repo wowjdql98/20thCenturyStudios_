@@ -5,7 +5,7 @@
 -----------------
 20세기 스튜디오 홈페이지 모바일로 로컬라이징, 리뉴얼하였습니다.
 
-사이트 링크 : https://six6na.github.io/20thCenturyStudios_/
+사이트 링크 : https://wowjdql98.github.io/20thCenturyStudios_/
 
 -----------------
 **메인프레임**
@@ -49,8 +49,7 @@
 
 
 ## 사용 라이브러리
-|HTML5|CSS|
-|---|---|---|
+|HTML5|CSS|javascript|
 
 
 
