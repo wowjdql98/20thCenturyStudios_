@@ -50,7 +50,7 @@
 
 
 ## 사용 라이브러리
-|HTML5|CSS|javascript|
+|swiper|jQuery|
 
 
 
